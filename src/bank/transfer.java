@@ -462,8 +462,8 @@ public class transfer extends javax.swing.JInternalFrame {
 
     private void jButton4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton4ActionPerformed
         // TODO add your handling code here:
-        final String username = "nguyenanhgoku123@gmail.com";
-        final String password = "wbtqbjyurjhzygku";
+        final String username = "your email";
+        final String password = "your password email";
 
         Properties prop = new Properties();
 		prop.put("mail.smtp.host", "smtp.gmail.com");
@@ -482,7 +482,7 @@ public class transfer extends javax.swing.JInternalFrame {
         try {
 
             Message message = new MimeMessage(session);
-            message.setFrom(new InternetAddress("nguyenanhgoku123@gmail.com"));
+            message.setFrom(new InternetAddress("your email@gmail.com"));
             message.setRecipients(
                     Message.RecipientType.TO,
                     InternetAddress.parse(txtemailto.getText())
