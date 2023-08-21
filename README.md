@@ -14,44 +14,54 @@
 
 ## Home Page Interface
 
+### Login Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/263d5559-d5b6-49a7-b584-df9fd2af13d3" alt="Login Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/263d5559-d5b6-49a7-b584-df9fd2af13d3" alt="Login Form" width="300">
 </div>
 
+### Withdrawal Form (With Email Authentication)
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/9647a4f0-b6c1-4ce6-a72d-34222287eb0c" alt="Withdrawal Form (With Email Authentication)">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/9647a4f0-b6c1-4ce6-a72d-34222287eb0c" alt="Withdrawal Form (With Email Authentication)" width="300">
 </div>
 
+### Deposit Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/3e6a978a-c1fc-443f-b35c-5bb20eaa355c" alt="Deposit Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/3e6a978a-c1fc-443f-b35c-5bb20eaa355c" alt="Deposit Form" width="300">
 </div>
 
+### Transfer Form (With Email Authentication)
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/b75f79b0-c113-4673-814c-794e64ace395" alt="Transfer Form (With Email Authentication)">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/b75f79b0-c113-4673-814c-794e64ace395" alt="Transfer Form (With Email Authentication)" width="300">
 </div>
 
+### Check Balance Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/8ebc3536-1c5f-4b55-b1e6-ddd088f992ea" alt="Check Balance Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/8ebc3536-1c5f-4b55-b1e6-ddd088f992ea" alt="Check Balance Form" width="300">
 </div>
 
+### Add Customer Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/cd722214-388d-459f-8d44-f4c29f4bc3d2" alt="Add Customer Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/cd722214-388d-459f-8d44-f4c29f4bc3d2" alt="Add Customer Form" width="300">
 </div>
 
+### View Customer List Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/eaa52ee3-5050-4ac8-ace3-c9c6fa6b9b18" alt="View Customer List Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/eaa52ee3-5050-4ac8-ace3-c9c6fa6b9b18" alt="View Customer List Form" width="300">
 </div>
 
+### View Deposit/Withdrawal History Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/d7f759e0-b3c7-4b6a-a79e-70b66486b7dd" alt="View Deposit/Withdrawal History Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/d7f759e0-b3c7-4b6a-a79e-70b66486b7dd" alt="View Deposit/Withdrawal History Form" width="300">
 </div>
 
+### View Transfer History Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/e4bdb048-57db-4ea6-9d27-dd84785f7b57" alt="View Transfer History Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/e4bdb048-57db-4ea6-9d27-dd84785f7b57" alt="View Transfer History Form" width="300">
 </div>
 
+### User Management Form
 <div align="center">
-  <img src="https://github.com/nptruong01/bank/assets/113322089/79fcc524-5bf9-4ee1-ab00-e9213a4d0042" alt="User Management Form">
+  <img src="https://github.com/nptruong01/bank/assets/113322089/79fcc524-5bf9-4ee1-ab00-e9213a4d0042" alt="User Management Form" width="300">
 </div>
 
 ## Menu
