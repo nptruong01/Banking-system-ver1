@@ -68,6 +68,7 @@
 <div align="center">
   <img src="https://github.com/nptruong01/bank/assets/113322089/98f07ec4-717f-4dbe-9b52-a1eba78d5714" alt="Adding Online Account for Customers" width="350">
 </div>
+
 ## Menu
 
 <div align="center">
